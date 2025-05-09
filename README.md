@@ -1,12 +1,11 @@
 <h1 align="center">CleanLink</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4e843321-ba57-46fd-8e9d-98cf9aa912ec" alt="CleanLink" width="700" />
+  <img src="https://github.com/user-attachments/assets/b48b29cb-469a-4581-9c5b-175a0399cef6" alt="CleanLink" width="700" />
 </p>
-
 CleanLink is a **simple** security-focused Discord bot designed to help server administrators protect their communities from malicious content. It integrates with the VirusTotal API to scan files and URLs in real-time and remove harmful messages from users who do not meet certain role requirements.
 
-![showcase](https://github.com/user-attachments/assets/f751b0ae-2a4d-41f4-8ebd-91637ae6d04e)
+![showcase](https://github.com/user-attachments/assets/00689c0b-bea5-4168-8a57-42a80305966b)
 
 
 ## Features
