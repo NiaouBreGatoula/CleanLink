@@ -1,0 +1,19 @@
+{
+  "name": "cleanlink",
+  "version": "1.0.0",
+  "description": "A Discord bot that scans links and files using VirusTotal.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["discord", "bot", "virustotal", "security", "scanner"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "form-data": "^4.0.2",
+    "node-fetch": "^2.7.0"
+  }
+}
